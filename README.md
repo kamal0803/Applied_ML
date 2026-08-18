@@ -1,7 +1,7 @@
-# Applied Bioinformatics Case Study
+# Applied Machine Learning - Bioinformatics Case Study
 
 This repository contains the code, data processing pipeline, and
-exploratory analysis for the Applied Bioinformatics coursework case
+exploratory analysis for the Applied Machine Learning coursework case
 study (2026).
 
 The project is structured as a small Python package using a `src/`
@@ -126,7 +126,3 @@ intended to be run from the `notebooks/` folder.
   analysis.
 
 ---
-
-```
-
-```
